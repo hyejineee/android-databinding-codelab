@@ -1,4 +1,5 @@
 Android Data Binding Codelab
+
 =============================================
 Follow the codelab in
 
